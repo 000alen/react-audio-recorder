@@ -1,13 +1,13 @@
 {
   "name": "@000alen/react-audio-voice-recorder",
   "private": false,
-  "version": "2.2.0",
+  "version": "2.2.1",
   "type": "module",
   "license": "MIT",
   "author": "Samhir Tarif",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samhirtarif/react-audio-recorder.git"
+    "url": "https://github.com/000alen/react-audio-recorder.git"
   },
   "keywords": [
     "react",

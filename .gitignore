@@ -1,3 +1,5 @@
+.yarnrc.yml
+
 # Logs
 logs
 *.log
