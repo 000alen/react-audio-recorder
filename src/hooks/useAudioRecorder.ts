@@ -1,4 +1,5 @@
 import { useState, useCallback } from "react";
+import MediaRecorder from "audio-recorder-polyfill";
 
 export interface recorderControls {
   startRecording: () => void;
